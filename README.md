@@ -1,7 +1,7 @@
 # Redes Neurais e Algoritmos Genéticos 🎆🎇
 
 Bem vindos à disciplina de Redes Neurais e Algoritmos Genéticos!!!
-Este repositório tem como objetivo abrigar todos os documentos e arquivos utilizados para as práticas na disciplina de Redes Neurais e Algoritmos Genéticos, os dispondo da maneira mais organizada e explicativa possível (ou pelo menos eu tentei).
+Este repositório tem como objetivo abrigar todos os documentos e arquivos utilizados para as práticas na disciplina, os dispondo da maneira mais organizada e explicativa possível (ou pelo menos eu tentei).
 
 Primeiramente, o mais importante a se notar é que a disciplina está dividida em duas, e os documentos usados e atividades realizadas de cada parte se encontram em suas respectivas pastas. 
 
