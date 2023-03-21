@@ -1,8 +1,19 @@
-# Template para a disciplina de Redes Neurais e Algoritmos Genéticos
+# Redes Neurais e Algoritmos Genéticos 🎆🎇
 
-Use este template como base para organizar seus experimentos na disciplina de Redes Neurais e Algoritmos Genéticos. 
+Bem vindos à disciplina de Redes Neurais e Algoritmos Genéticos!!!
+Este repositório tem como objetivo abrigar todos os documentos e arquivos utilizados para as práticas na disciplina, os dispondo da maneira mais organizada e explicativa possível (ou pelo menos eu tentei).
 
-Lembretes:
+Primeiramente, o mais importante a se notar é que a disciplina está dividida em duas, e os documentos usados e atividades realizadas de cada parte se encontram em suas respectivas pastas. 
+
+Desde agora, é válido ressaltar que todas as atividades e experimentos serão realizados em notebooks do JupyterLab, sendo que cada notebook contém apenas um experimento, que serão realizados com códigos comentados e idealmente de forma explicativa. No README dentro cada pasta estarão os experimentos realizados até o momento, assim como quais ainda estão incompletos de alguma forma ou apresentam um erro que ainda não foi corrigido. Buscarei atualizar a condição de cada experimento no fim de cada aula e corrigir ou completar o que julgar necessário.
+
+Espero que tenha ficado claro, qualquer coisa atualizarei esse texto caso alguma mudança de organização ou planejamento ocorra.
+
+Bons estudos!! 👻
+
+
+
+Lembretes do Daniel que ainda acho válido guardar:
 
 + Cada notebook deve ter apenas um experimento
 + Jamais faça importações utilizando o asterisco. Use espaços de nome ou importe apenas o que for usar no seu experimento
